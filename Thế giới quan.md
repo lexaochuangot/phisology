@@ -1,0 +1,2 @@
+là khái niệm triết học chỉ hệ thống các tri thức, quan điểm, tình cảm, niềm tin, lí tưởng xác định về thế giới và về vị trí của con người (bao hàm cả cá nhân, xã hội và nhân loại) trong thế giới đó
+Thế giới quan quy định các nguyên tắc, thái độ, giá trị trong định hướng nhận thức và hoạt động thực tiễn của con người 
