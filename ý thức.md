@@ -1,0 +1,1 @@
+là sự phản ánh hiện thực khách quan vào trong bộ óc con người một cách năng động, sáng tạo, là hình ảnh chủ quan của thế giới khách quan

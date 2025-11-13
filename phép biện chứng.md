@@ -1,0 +1,1 @@
+là khoa học về những quy luật phổ biến nhất của mọi sự vận động

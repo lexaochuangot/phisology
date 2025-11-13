@@ -1,0 +1,1 @@
+là mối liên hệ chung nhất tồn tại ở mọi sự vật, hiện tượng trong tự nhiên, xã hội, tư duy

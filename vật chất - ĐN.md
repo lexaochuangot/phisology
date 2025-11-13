@@ -1,0 +1,2 @@
+## định nghĩa vật chất của Lenin
+vật chất là phạm trù triết học dùng để chỉ thực tại khách quan được đem lại cho con người trong cảm giác, được cảm giác của chúng ta chép lại, chụp lại, phản ánh và tồn tại không phụ thuộc vào cảm giác
