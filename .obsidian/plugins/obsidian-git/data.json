@@ -31,7 +31,7 @@
   "submoduleRecurseCheckout": false,
   "gitDir": "C:\\Program Files\\Git\\cmd\\git.exe",
   "showFileMenu": true,
-  "authorInHistoryView": "hide",
+  "authorInHistoryView": "full",
   "dateInHistoryView": true,
   "diffStyle": "split",
   "lineAuthor": {

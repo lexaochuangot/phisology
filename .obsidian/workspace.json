@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "929651f57d9213b7",
+        "id": "4548eb59ab5f181a",
         "type": "tabs",
         "children": [
           {
-            "id": "66d929a88430cfaf",
+            "id": "2e1aa39064eed38b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,9 +167,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66d929a88430cfaf",
+  "active": "2e1aa39064eed38b",
   "lastOpenFiles": [
-    "Welcome.md",
-    "Triết học.md"
+    "Triết học.md",
+    "Welcome.md"
   ]
 }
