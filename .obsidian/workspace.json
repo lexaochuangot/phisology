@@ -9,7 +9,21 @@
         "dimension": 60.31879194630873,
         "children": [
           {
-            "id": "65ffbcb688b18708",
+            "id": "5ca6f0a17f45cc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "phép biện chứng.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "phép biện chứng"
+            }
+          },
+          {
+            "id": "0adb8e88cc8ae632",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -17,51 +31,9 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "4c76fa3ecf190997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chủ nghĩa duy vật biện chứng.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chủ nghĩa duy vật biện chứng"
-            }
-          },
-          {
-            "id": "f5242212f4d2d762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chủ nghĩa duy vật biện chứng.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chủ nghĩa duy vật biện chứng"
-            }
-          },
-          {
-            "id": "e55ceb1f07336fe6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "chủ nghĩa duy vật biện chứng - nguyên lí.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "chủ nghĩa duy vật biện chứng - nguyên lí"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "4914f7c784ff98e9",
@@ -79,7 +51,6 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "chủ nghĩa duy vật biện chứng - nguyên lí.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -107,7 +78,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of chủ nghĩa duy vật biện chứng - nguyên lí"
+                  "title": "Graph view"
                 }
               }
             ]
@@ -123,7 +94,6 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "chủ nghĩa duy vật biện chứng - nguyên lí.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for chủ nghĩa duy vật biện chứng - nguyên lí"
+                  "title": "Backlinks"
                 }
               }
             ]
@@ -285,33 +255,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e55ceb1f07336fe6",
+  "active": "0adb8e88cc8ae632",
   "lastOpenFiles": [
+    "phép biện chứng - loại hình.md",
+    "phép biện chứng.md",
+    "ý thức - nguồn gốc.md",
+    "chân lí.md",
+    "ý thức.md",
+    "vật chất - tính thống nhất.md",
+    "ý nghĩa của phương pháp luận.md",
+    "vật chất - ĐN.md",
+    "chủ nghĩa duy vật siêu hình.md",
     "chủ nghĩa duy vật biện chứng.md",
-    "chủ nghĩa duy vật biện chứng - nguyên lí.md",
+    "chủ nghĩa duy tâm chủ quan.md",
     "triết học - VĐCB.md",
+    "chủ nghĩa duy vật.md",
+    "triết học.md",
+    "triết học - điều kiện ra đời.md",
+    "thế giới quan duy vật.md",
+    "chủ nghĩa duy vật biện chứng - nguyên lí.md",
     "chủ nghĩa duy vật biện chứng - luận điểm.md",
     "chủ nghĩa duy vật chất phác.md",
-    "chủ nghĩa duy vật.md",
     "phạm trù triết học - vai trò.md",
     "triết học - thế giới quan.md",
     "triết học - đối tượng.md",
-    "triết học.md",
     "phủ định - hình thức.md",
     "nhận thức - giai đoạn.md",
     "không gian và thời gian.md",
-    "chủ nghĩa duy tâm chủ quan.md",
-    "chủ nghĩa duy tâm.md",
-    "thực tiễn.md",
-    "mối liên hệ phổ biến - TC.md",
-    "ý nghĩa của phương pháp luận.md",
-    "mối liên hệ phổ biến.md",
-    "siêu hình.md",
-    "biện chứng.md",
-    "phép biện chứng.md",
-    "chủ nghĩa duy tâm khách quan.md",
-    "chủ nghĩa duy vật siêu hình.md",
-    "thế giới quan.md",
-    "sản xuất vật chất.md"
+    "chủ nghĩa duy tâm.md"
   ]
 }

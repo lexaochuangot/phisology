@@ -3,5 +3,7 @@
 ### [[chủ nghĩa duy vật siêu hình]]
 ### [[chủ nghĩa duy vật biện chứng]]
 
-#trắc_nghiệm phạm trù cơ bản của chủ nghĩa duy vật?
+#trắc_nghiệm 
+**1. phạm trù cơ bản của chủ nghĩa duy vật?**
 phạm trù vật chất
+**2. Ba hình thức cơ bản của chủ nghĩa duy vật là?**
