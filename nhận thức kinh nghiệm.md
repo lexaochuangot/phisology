@@ -1,0 +1,2 @@
+là [[nhận thức - bản chất|nhận thức]] hình thành từ quá trình quan sát **trực tiếp** các sự vật, hiện tượng hay các thí nghiệm, thực nghiệm khoa học
+kết quả của nhận thức kinh nghiệm là những tri thức kinh nghiệm. Tri thức này có 2 loại: tri thức kinh nghiệm thông thường và tri thức kinh nghiệm khoa học

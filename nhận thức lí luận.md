@@ -1,0 +1,1 @@
+là nhận thức sự vật, hiện tượng 1 cách **gián tiếp** dựa trên các hình thức tư duy trừu tượng để khái quát về bản chất, những mối quan hệ có tính quy luật của các hiện tượng
