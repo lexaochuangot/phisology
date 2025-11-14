@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vật chất - ĐN.md",
+                "file": "triết học - VĐCB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "vật chất - ĐN"
+              "title": "triết học - VĐCB"
             }
           },
           {
@@ -35,18 +35,9 @@
               "icon": "lucide-file",
               "title": "nhận thức - giai đoạn"
             }
-          },
-          {
-            "id": "13c312ab1a31acb0",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "7dd40e4f28226b33",
@@ -59,7 +50,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "vật chất - ĐN.md",
+                "file": "nhận thức - giai đoạn.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -87,7 +78,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of vật chất - ĐN"
+              "title": "Graph of nhận thức - giai đoạn"
             }
           }
         ]
@@ -236,11 +227,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1eeeb9f61e169a4c",
+  "active": "81aa7a84495bb4b5",
   "lastOpenFiles": [
+    "chủ nghĩa duy vật.md",
+    "triết học - thế giới quan.md",
+    "triết học - VĐCB.md",
+    "vật chất - ĐN.md",
     "nhận thức - giai đoạn.md",
     "nhận thức lí luận.md",
-    "vật chất - ĐN.md",
     "chân lí.md",
     "nhận thức - cấp độ.md",
     "nhận thức - bản chất.md",
@@ -252,7 +246,6 @@
     "phạm trù triết học.md",
     "Phép biện chứng chất phác (thời Cổ đại).md",
     "Thế giới quan.md",
-    "triết học - VĐCB.md",
     "vận động.md",
     "vận động và đứng im.md",
     "vật chất - phân tích.md",
@@ -261,8 +254,6 @@
     "ý thức.md",
     "phạm trù.md",
     "đứng im.md",
-    "chủ nghĩa duy vật.md",
-    "mối liên hệ phổ biến - TC.md",
-    "mối liên hệ phổ biến.md"
+    "mối liên hệ phổ biến - TC.md"
   ]
 }
