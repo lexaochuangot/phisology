@@ -1,0 +1,1 @@
+là những tri thức 
