@@ -9,7 +9,7 @@
         "dimension": 60.31879194630873,
         "children": [
           {
-            "id": "1eeeb9f61e169a4c",
+            "id": "65ffbcb688b18708",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -23,65 +23,99 @@
             }
           },
           {
-            "id": "81aa7a84495bb4b5",
+            "id": "4c76fa3ecf190997",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nhận thức - giai đoạn.md",
+                "file": "phạm trù triết học - vai trò.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "nhận thức - giai đoạn"
+              "title": "phạm trù triết học - vai trò"
             }
           }
         ],
         "currentTab": 1
       },
       {
-        "id": "7dd40e4f28226b33",
-        "type": "tabs",
+        "id": "4914f7c784ff98e9",
+        "type": "split",
         "dimension": 39.68120805369127,
         "children": [
           {
-            "id": "6da54b39efec8eab",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "nhận thức - giai đoạn.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
+            "id": "7dd40e4f28226b33",
+            "type": "tabs",
+            "dimension": 62.377450980392155,
+            "children": [
+              {
+                "id": "6da54b39efec8eab",
+                "type": "leaf",
+                "state": {
+                  "type": "localgraph",
+                  "state": {
+                    "file": "phạm trù triết học - vai trò.md",
+                    "options": {
+                      "collapse-filter": true,
+                      "search": "",
+                      "localJumps": 1,
+                      "localBacklinks": true,
+                      "localForelinks": true,
+                      "localInterlinks": false,
+                      "showTags": false,
+                      "showAttachments": false,
+                      "hideUnresolved": false,
+                      "collapse-color-groups": true,
+                      "colorGroups": [],
+                      "collapse-display": true,
+                      "showArrow": false,
+                      "textFadeMultiplier": 0,
+                      "nodeSizeMultiplier": 1,
+                      "lineSizeMultiplier": 1,
+                      "collapse-forces": true,
+                      "centerStrength": 0.518713248970312,
+                      "repelStrength": 10,
+                      "linkStrength": 1,
+                      "linkDistance": 250,
+                      "scale": 1,
+                      "close": true
+                    }
+                  },
+                  "icon": "lucide-git-fork",
+                  "title": "Graph of phạm trù triết học - vai trò"
                 }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of nhận thức - giai đoạn"
-            }
+              }
+            ]
+          },
+          {
+            "id": "4d5bf5015e3cecc1",
+            "type": "tabs",
+            "dimension": 37.622549019607845,
+            "children": [
+              {
+                "id": "a0a4548c89710142",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "phạm trù triết học - vai trò.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for phạm trù triết học - vai trò"
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -227,33 +261,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81aa7a84495bb4b5",
+  "active": "4c76fa3ecf190997",
   "lastOpenFiles": [
-    "chủ nghĩa duy vật.md",
-    "triết học - thế giới quan.md",
     "triết học - VĐCB.md",
-    "vật chất - ĐN.md",
-    "nhận thức - giai đoạn.md",
-    "nhận thức lí luận.md",
-    "chân lí.md",
-    "nhận thức - cấp độ.md",
-    "nhận thức - bản chất.md",
-    "nhận thức.md",
-    "nhận thức kinh nghiệm.md",
-    "phủ định.md",
+    "phạm trù triết học - vai trò.md",
+    "triết học - thế giới quan.md",
+    "triết học - đối tượng.md",
+    "triết học.md",
     "phủ định - hình thức.md",
-    "liên hệ.md",
-    "phạm trù triết học.md",
-    "Phép biện chứng chất phác (thời Cổ đại).md",
-    "Thế giới quan.md",
-    "vận động.md",
-    "vận động và đứng im.md",
-    "vật chất - phân tích.md",
-    "vật chất - phương thức tồn tại.md",
-    "vật chất - tính thống nhất.md",
-    "ý thức.md",
-    "phạm trù.md",
-    "đứng im.md",
-    "mối liên hệ phổ biến - TC.md"
+    "nhận thức - giai đoạn.md",
+    "không gian và thời gian.md",
+    "chủ nghĩa duy vật biện chứng.md",
+    "chủ nghĩa duy vật.md",
+    "chủ nghĩa duy tâm chủ quan.md",
+    "chủ nghĩa duy tâm.md",
+    "chủ nghĩa duy vật chất phác.md",
+    "thực tiễn.md",
+    "mối liên hệ phổ biến - TC.md",
+    "ý nghĩa của phương pháp luận.md",
+    "mối liên hệ phổ biến.md",
+    "siêu hình.md",
+    "biện chứng.md",
+    "phép biện chứng.md",
+    "chủ nghĩa duy tâm khách quan.md",
+    "chủ nghĩa duy vật siêu hình.md",
+    "thế giới quan.md",
+    "sản xuất vật chất.md",
+    "chân lí.md",
+    "vật chất - ĐN.md"
   ]
 }

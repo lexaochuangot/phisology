@@ -1,4 +1,4 @@
-## VĐCB của triết học
+## VĐCB của [[triết học]]
 là vấn đề về mối quan hệ giữa [[vật chất - ĐN|vật chất]] và [[ý thức|ý thức]]
 ## có 2 mặt, trả lời cho 2 câu hỏi lớn
 - mặt thứ nhất: giữa vật chất và ý thức thì cái nào có trước, cái nào có sau, cái nào quyết định cái nào?

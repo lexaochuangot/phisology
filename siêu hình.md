@@ -1,0 +1,1 @@
+dùng để chỉ triết học với tư cách là khoa học siêu cảm tính, phi thực nghiệm

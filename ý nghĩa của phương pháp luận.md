@@ -1,0 +1,1 @@
+khi nghiên cứu, xem xét sự vật, hiện tượng cần có quan điểm **toàn diện**

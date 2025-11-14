@@ -1,0 +1,1 @@
+thừa nhận tính thứ nhất của ý thức nhưng coi đó là thứ tinh thần khách quan có trước và tồn tại độc lập với con người như ý niệm, tinh thần tuyệt đối, lí tính thế giới

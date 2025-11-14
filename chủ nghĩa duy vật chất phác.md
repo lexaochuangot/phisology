@@ -1,0 +1,3 @@
+(duy vật thời cổ đại): thừa nhận tính thứ nhất của vật chất nhưng lại đồng nhất vật chất nhưng lại đồng nhất vật chất với 1 hay 1 số chất cụ thể của vật chất và đưa ra những kết luận mang tính trực quan, ngây thơ, chất phác
+
+Ưu điểm: lấy bản thân thế giới tự nhiên để giải thích thế giới, không viện đến thần linh, thượng đế...

@@ -1,0 +1,1 @@
+là quá trình con người sử dụng công cụ lao động tác động vào tự nhiên để cải biến các dạng vật chất của giới tự nhiên để thỏa mãn nhu cầu **tồn tại và phát triển của con người**

@@ -1,0 +1,1 @@
+đối tượng của [[triết học]] là các quan hệ phổ biến và các quy luật chung nhất của toàn bộ tự nhiên, xã hội và tư duy.
