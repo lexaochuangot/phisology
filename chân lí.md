@@ -1,1 +1,1 @@
-là những tri thức 
+là những tri thức phù hợp với hiện thực khách quan và được thực tiến kiểm nghiệm
