@@ -1,0 +1,1 @@
+là sự thay thế sự vật này bằng sự vật khác trong quá trình vận động và phát triển của thế giới vật chất
