@@ -1,0 +1,1 @@
+con người không thể hiểu được bản chất của đối tượng, phủ nhận khả năng vô hạn của nhận thức

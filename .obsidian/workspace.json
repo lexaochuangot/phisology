@@ -23,13 +23,17 @@
             }
           },
           {
-            "id": "0adb8e88cc8ae632",
+            "id": "a42900fadafbbfb9",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "nhận thức - giai đoạn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nhận thức - giai đoạn"
             }
           }
         ],
@@ -51,6 +55,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
+                    "file": "nhận thức - giai đoạn.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -78,7 +83,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph view"
+                  "title": "Graph of nhận thức - giai đoạn"
                 }
               }
             ]
@@ -94,6 +99,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
+                    "file": "nhận thức - giai đoạn.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -103,7 +109,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks"
+                  "title": "Backlinks for nhận thức - giai đoạn"
                 }
               }
             ]
@@ -255,33 +261,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0adb8e88cc8ae632",
+  "active": "a42900fadafbbfb9",
   "lastOpenFiles": [
+    "thế giới quan - phân loại.md",
+    "triết học - VĐCB.md",
+    "thế giới quan - triết học Mac Lenin.md",
+    "thế giới quan.md",
+    "thực tiễn.md",
+    "triết học ML - ĐK ra đời.md",
+    "hoài nghi luận.md",
+    "thuyết bất khả tri.md",
+    "thuyết khả tri.md",
+    "biện chứng.md",
+    "chân lí.md",
+    "chủ nghĩa duy vật chất phác.md",
+    "siêu hình.md",
+    "sản xuất vật chất.md",
+    "thế giới quan duy vật.md",
+    "triết học - đối tượng.md",
+    "triết học.md",
+    "nhận thức - nguồn gốc.md",
+    "nhận thức kinh nghiệm.md",
+    "nhận thức - bản chất.md",
+    "nhận thức - cấp độ.md",
+    "nhận thức - giai đoạn.md",
     "phép biện chứng - loại hình.md",
     "phép biện chứng.md",
     "ý thức - nguồn gốc.md",
-    "chân lí.md",
-    "ý thức.md",
-    "vật chất - tính thống nhất.md",
-    "ý nghĩa của phương pháp luận.md",
-    "vật chất - ĐN.md",
-    "chủ nghĩa duy vật siêu hình.md",
-    "chủ nghĩa duy vật biện chứng.md",
-    "chủ nghĩa duy tâm chủ quan.md",
-    "triết học - VĐCB.md",
-    "chủ nghĩa duy vật.md",
-    "triết học.md",
-    "triết học - điều kiện ra đời.md",
-    "thế giới quan duy vật.md",
-    "chủ nghĩa duy vật biện chứng - nguyên lí.md",
-    "chủ nghĩa duy vật biện chứng - luận điểm.md",
-    "chủ nghĩa duy vật chất phác.md",
-    "phạm trù triết học - vai trò.md",
-    "triết học - thế giới quan.md",
-    "triết học - đối tượng.md",
-    "phủ định - hình thức.md",
-    "nhận thức - giai đoạn.md",
-    "không gian và thời gian.md",
-    "chủ nghĩa duy tâm.md"
+    "ý thức.md"
   ]
 }

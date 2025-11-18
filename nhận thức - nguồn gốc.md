@@ -1,0 +1,2 @@
+- khi con người đạt đến tư duy trừu tượng hóa, khái quát hóa, hệ thống hóa
+- nguồn gốc xã hội: khi sản xuất XH có sự phân công lao động và xuất hiện giai cấp

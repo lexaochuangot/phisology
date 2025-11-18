@@ -1,0 +1,1 @@
+con người có thể hiểu được bản chất của sự vật (con người có khả năng nhận thức về TG)
