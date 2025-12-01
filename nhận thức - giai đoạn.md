@@ -4,5 +4,3 @@ Luận điểm Lenin:
 ## 2 giai đoạn tất yếu
 - nhận thức cảm tính (trực quan sinh động)
 - nhận thức lí tính (tư duy trừu tượng)
-
-![](https://dictionary.cambridge.org/rss/images/dry-texting.jpg)
