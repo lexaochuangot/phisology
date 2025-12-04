@@ -19,17 +19,17 @@
             }
           },
           {
-            "id": "061e89302c1175ae",
+            "id": "440af2cd5fb1e104",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phạm trù.md",
+                "file": "phép biện chứng duy vật - 2 nguyên lí.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phạm trù"
+              "title": "phép biện chứng duy vật - 2 nguyên lí"
             }
           }
         ],
@@ -51,7 +51,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "phạm trù.md",
+                    "file": "phép biện chứng duy vật - 2 nguyên lí.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -79,7 +79,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of phạm trù"
+                  "title": "Graph of phép biện chứng duy vật - 2 nguyên lí"
                 }
               }
             ]
@@ -95,7 +95,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "phạm trù.md",
+                    "file": "phép biện chứng duy vật - 2 nguyên lí.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for phạm trù"
+                  "title": "Backlinks for phép biện chứng duy vật - 2 nguyên lí"
                 }
               }
             ]
@@ -257,9 +257,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "061e89302c1175ae",
+  "active": "440af2cd5fb1e104",
   "lastOpenFiles": [
+    "phép biện chứng duy vật - 2 nguyên lí.md",
     "mối liên hệ phổ biến.md",
+    "phép biện chứng duy vật.md",
+    "mối liên hệ phổ biến - TC.md",
+    "phép biện chứng.md",
+    "phép biện chứng - loại hình.md",
+    "quy luật - phân loại.md",
+    "chủ nghĩa duy vật siêu hình.md",
+    "nhận thức - giai đoạn.md",
+    "chủ nghĩa duy tâm khách quan.md",
+    "đứng im.md",
+    "quy luật.md",
+    "phủ định.md",
+    "nhận thức cảm tính.md",
+    "nhận thức - bản chất.md",
+    "sản xuất vật chất.md",
+    "phạm trù.md",
     "liên hệ.md",
     "chủ nghĩa duy vật biện chứng.md",
     "chủ nghĩa duy vật.md",
@@ -268,22 +284,6 @@
     "thế giới quan - phân loại.md",
     "ý thức.md",
     "ý thức - nguồn gốc.md",
-    "ý nghĩa của phương pháp luận.md",
-    "chủ nghĩa duy tâm chủ quan.md",
-    "nhận thức - giai đoạn.md",
-    "triết học - VĐCB.md",
-    "thế giới quan - triết học Mac Lenin.md",
-    "thế giới quan.md",
-    "thực tiễn.md",
-    "triết học ML - ĐK ra đời.md",
-    "hoài nghi luận.md",
-    "thuyết bất khả tri.md",
-    "thuyết khả tri.md",
-    "biện chứng.md",
-    "chân lí.md",
-    "chủ nghĩa duy vật chất phác.md",
-    "siêu hình.md",
-    "sản xuất vật chất.md",
-    "thế giới quan duy vật.md"
+    "ý nghĩa của phương pháp luận.md"
   ]
 }
