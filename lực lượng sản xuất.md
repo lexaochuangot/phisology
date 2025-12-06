@@ -1,13 +1,13 @@
 ---
 topic:
-  - "[[7 - học thuyết hình thái KT XH]]"
+  - "[[phương thức sản xuất]]"
 subtopic:
   - "[[tư liệu sản xuất]]"
   - "[[lực lượng sản xuất - đặc trưng]]"
   - "[[lực lượng sản xuất - TC TĐ]]"
   - "[[lực lượng sản xuất trực tiếp]]"
 related:
-  - "[[phương thức sản xuất]]"
+  - "[[quan hệ sản xuất]]"
 ---
 là sự kết hợp giữa *người lao động* với  *tư liệu sản xuất*, tạo ra sức sản xuất và năng lượng thực tiễn làm biến đổi các đối tượng vật chất của giới tự nhiên theo nhu cầu nhất định của con người và xã hội
 - *người lao động* là con người có tri thức, kinh nghiệm, kĩ năng lao động và năng lực sáng tạo... trong quá trình sản xuất của xã hội
