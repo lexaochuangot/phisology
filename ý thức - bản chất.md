@@ -9,4 +9,5 @@
 + Hai là: Mô hình hoá đối tượng trong tư duy dưới dạng hình ảnh tinh thần: mã hóa các đối tượng vật chất thành các ý tưởng tinh thần phi vật chất, là quá trình “sáng tạo lại” hiện thực 
 + Ba là: Chuyển hoá mô hình từ tư duy ra hiện thực khách quan, tức là quá trình hiện thực hoá tư tưởng, thông qua hoạt động thực tiễn biến cái quan niệm thành cái hiện thực, biến cái ý tưởng phi vật chất trong tư duy thành các dạng vật chất ngoài hiện thực. Ý thức là hình thức phản ánh cao nhất riêng có của óc người về hiện thực khách quan trên cơ sở thực tiễn xã hội - lịch sử. 
 ### Sự phản ánh sáng tạo của ý thức gắn bó chặt chẽ với thực tiễn xã hội
-+ Ý thức là hiện tượng xã hội, chịu sự tác động của các quy luật xã hội, gắn liền với hoạt động thực tiễn xã hội đa dạng, phong phú mà qua đó con người làm biến đổi thế giới theo nhu cầu của con người. Ví dụ: Làm ngôi nhà ở ba địa hình khác nhau, con người phải định hình và đưa ra ba kiểu nhà khác nhau cho phù hợp với từng địa hình.
++ Ý thức là hiện tượng xã hội, chịu sự tác động của các quy luật xã hội, gắn liền với hoạt động thực tiễn xã hội đa dạng, phong phú mà qua đó con người làm biến đổi thế giới theo nhu cầu của con người. 
+	Ví dụ: Làm ngôi nhà ở ba địa hình khác nhau, con người phải định hình và đưa ra ba kiểu nhà khác nhau cho phù hợp với từng địa hình.

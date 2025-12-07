@@ -8,3 +8,5 @@ Vật chất với tư cách là phạm trù triết học dùng để chỉ v�
 **vật chất** tác động vào giác quan của con người một cách trực tiếp hoặc gián tiếp **đem lại cho con người cảm giác.**
 ## Thứ tư
 vật chất là cái mà **ý thức** chẳng qua chỉ là sự **phản ánh** của nó
+
+→ Nội dung này đã giải quyết mặt thứ 2 [[triết học - VĐCB|vấn đề cơ bản của triết học]]: con người có khả năng nhận thức được thể giới. Chỉ có những cái con người chưa biết, không có những cái con người không biết

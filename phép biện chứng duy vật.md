@@ -9,6 +9,6 @@ subtopic:
 ### đối tượng nghiên cứu
 là trạng thái tồn tại có tính quy luật phổ biến nhất của sự vật, hiện tượng trong thế giới
 ### nội dung
-- 2 nguyên lí
+- [[phép biện chứng duy vật - 2 nguyên lí|2 nguyên lí]]
 - 3 quy luật
 - 6 cặp phạm trù

@@ -9,45 +9,41 @@
         "dimension": 62.24832214765101,
         "children": [
           {
-            "id": "a42900fadafbbfb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "quan hệ sản xuất.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "quan hệ sản xuất"
-            }
-          },
-          {
             "id": "6f52629d15d5c11b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "7 - học thuyết hình thái KT XH.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "7 - học thuyết hình thái KT XH"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "718313defb89e25b",
+            "id": "a100edd3e8f41670",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "biện chứng.md",
+                "file": "phép biện chứng duy vật - 2 nguyên lí.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "biện chứng"
+              "title": "phép biện chứng duy vật - 2 nguyên lí"
+            }
+          },
+          {
+            "id": "27894bb59a1da108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vật chất và ý thức.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "vật chất và ý thức"
             }
           }
         ],
@@ -69,7 +65,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "7 - học thuyết hình thái KT XH.md",
+                    "file": "phép biện chứng duy vật - 2 nguyên lí.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -97,7 +93,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of 7 - học thuyết hình thái KT XH"
+                  "title": "Graph of phép biện chứng duy vật - 2 nguyên lí"
                 }
               }
             ]
@@ -113,7 +109,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "7 - học thuyết hình thái KT XH.md",
+                    "file": "phép biện chứng duy vật - 2 nguyên lí.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -123,7 +119,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for 7 - học thuyết hình thái KT XH"
+                  "title": "Backlinks for phép biện chứng duy vật - 2 nguyên lí"
                 }
               }
             ]
@@ -275,33 +271,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6f52629d15d5c11b",
+  "active": "a100edd3e8f41670",
   "lastOpenFiles": [
-    "lực lượng sản xuất.md",
-    "mối liên hệ phổ biến - TC.md",
-    "quan hệ sản xuất.md",
-    "phương thức sản xuất.md",
-    "7 - học thuyết hình thái KT XH.md",
+    "phép biện chứng duy vật.md",
     "biện chứng.md",
     "phép biện chứng duy vật - 2 nguyên lí.md",
-    "phép biện chứng duy vật.md",
-    "lực lượng sản xuất - quyết định.md",
-    "lực lượng sản xuất trực tiếp.md",
-    "lực lượng sản xuất - TC TĐ.md",
-    "lực lượng sản xuất - đặc trưng.md",
-    "tư liệu lao động.md",
-    "tư liệu sản xuất.md",
-    "phương thức sản xuất - phương diện.md",
-    "sản xuất vật chất - vai trò.md",
-    "sản xuất vật chất.md",
-    "sản xuất.md",
-    "mối liên hệ phổ biến.md",
     "phép biện chứng.md",
-    "phép biện chứng - loại hình.md",
-    "quy luật - phân loại.md",
-    "chủ nghĩa duy vật siêu hình.md",
-    "nhận thức - giai đoạn.md",
-    "chủ nghĩa duy tâm khách quan.md",
-    "đứng im.md"
+    "chủ nghĩa duy vật biện chứng.md",
+    "2 - vật chất và ý thức.md",
+    "vật chất và ý thức.md",
+    "ý thức - cấp độ.md",
+    "ý thức - lớp kết cấu.md",
+    "ý thức - bản chất.md",
+    "ý thức - nguồn gốc.md",
+    "lao động.md",
+    "ý thức.md",
+    "thế giới thống nhất ở tính vật chất.md",
+    "tồn tại.md",
+    "vật chất - phương thức tồn tại.md",
+    "vận động.md",
+    "đứng im.md",
+    "vận động và đứng im.md",
+    "Untitled.md",
+    "vật chất - ý nghĩa.md",
+    "vật chất - ĐN.md",
+    "vật chất - phân tích.md",
+    "triết học - VĐCB.md",
+    "phát minh vật lí học - tác động.md",
+    "các phát minh vật lí học.md"
   ]
 }

@@ -1,3 +1,7 @@
+---
+subtopic:
+  - "[[chủ nghĩa duy vật trước Mác]]"
+---
 3 hình thức cơ bản
 ### [[chủ nghĩa duy vật chất phác]]
 ### [[chủ nghĩa duy vật siêu hình]]

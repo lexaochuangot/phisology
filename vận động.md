@@ -1,3 +1,9 @@
+---
+related:
+  - "[[đứng im]]"
+subtopic:
+  - "[[vận động và đứng im]]"
+---
 KN: Vận động theo nghĩa chung nhất là mọi sự biến đổi nói chung. 
 ## Vận động là phương thức tồn tại của vật chất 
 + Vận động là thuộc tính cố hữu của vật chất. Vật chất chỉ có thể tồn tại và biểu hiện sự tồn tại của mình thông qua vận động. Không có vật chất không vận động cũng như không có vận động thuần tuý ở bên ngoài vật chất. 

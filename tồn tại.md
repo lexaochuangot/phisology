@@ -1,0 +1,4 @@
+- Tồn tại là phạm trù dùng để chỉ tính có thực của thế giới xung quanh con người.  
+- Sự tồn tại của thế giới hết sức phong phú về dạng loại. Có tồn tại vật chất và tồn tại tinh thần; tồn tại khách quan và chủ quan; tồn tại của tự nhiên và tồn tại của xã hội…Vì thế tồn tại của thế giới là tiền đề cho sự thống nhất thế giới. 
+- Chủ nghĩa duy vật: sự tồn tại của thế giới như một chỉnh thể mà bản chất của nó là vật chất. 
+- Chủ nghĩa duy tâm: Bản chất của tồn tại là tinh thần. Sự khác nhau về ngyên tắc giữa quan niệm duy vật và quan niệm duy tâm không phải ở việc thừa nhận hay không thừa nhận tính thống nhất của thế giới, mà là ở chỗ chủ nghĩa duy vật cho rằng: cơ sở của sự thống nhất của thế giới là ở tính vật chất của nó.

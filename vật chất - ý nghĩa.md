@@ -1,0 +1,5 @@
+- Định nghĩa vật chất của Lênin đã giải quyết hai mặt vấn đề cơ bản của triết học trên lập trường chủ nghĩa duy vật biện chứng 
+- Cung cấp nguyên tắc thế giới quan và phương pháp luận duy vật khoa học để đấu tranh chống chủ nghĩa duy tâm. thuyết không thể biết và chủ nghĩa duy vật siêu hình. 
+- Phải quán triệt nguyên tắc khách quan, xuất phát từ hiện thực khách quan, tôn trọng khách quan, nhận thức và vận dụng đúng quy luật khách quan… 
+- Là cơ sở khoa học cho việc xác định vật chất trong lĩnh vực xã hội (đó là điều kiện sinh hoạt vật chất, hoạt động vật chất và các quan hệ vật chất của xã hội). 
+- Tạo sự liên kết giữa chủ nghĩa duy vật biện chứng và chủ nghĩa duy vật lịch sử thành một hệ thống lý luận thống nhất, tạo nền tảng lý luận khoa học cho việc phân tích một cách chủ nghĩa duy vật biện chứng các vấn đề của chủ nghĩa duy vật lịch sử
