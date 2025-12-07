@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sản xuất vật chất.md",
-                "mode": "preview",
+                "file": "sản xuất vật chất - vai trò.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sản xuất vật chất"
+              "title": "sản xuất vật chất - vai trò"
             }
           }
         ]
@@ -167,6 +167,7 @@
   "active": "651d8a812a0a3bbe",
   "lastOpenFiles": [
     "7 - học thuyết hình thái KT XH.md",
+    "sản xuất vật chất.md",
     "sản xuất.md",
     "các phát minh vật lí học.md",
     "2 - vật chất và ý thức.md",
@@ -191,7 +192,6 @@
     "/vật chất - ĐN.md",
     "/vật chất - ý nghĩa.md",
     "/vật chất - phương thức tồn tại.md",
-    "/vật chất - phân tích.md",
     "Untitled"
   ]
 }
