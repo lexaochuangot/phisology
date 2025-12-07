@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "chủ nghĩa duy tâm.md",
-                "mode": "source",
+                "file": "chủ nghĩa duy vật trước Mác.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "chủ nghĩa duy tâm"
+              "title": "chủ nghĩa duy vật trước Mác"
             }
           }
         ]
@@ -167,6 +167,7 @@
   "active": "651d8a812a0a3bbe",
   "lastOpenFiles": [
     "2 - vật chất và ý thức.md",
+    "chủ nghĩa duy tâm.md",
     "7 - học thuyết hình thái KT XH.md",
     "Untitled.md",
     "ý thức - lớp kết cấu.md",
@@ -191,7 +192,6 @@
     "/vật chất - phương thức tồn tại.md",
     "/vật chất - phân tích.md",
     "/vận động.md",
-    "/vận động và đứng im.md",
     "Untitled"
   ]
 }
