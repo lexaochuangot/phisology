@@ -11,10 +11,14 @@
             "id": "651d8a812a0a3bbe",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2 - vật chất và ý thức.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2 - vật chất và ý thức"
             }
           }
         ]
