@@ -24,12 +24,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phép biện chứng duy vật - 2 nguyên lí.md",
+                "file": "ý thức - nguồn gốc.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phép biện chứng duy vật - 2 nguyên lí"
+              "title": "ý thức - nguồn gốc"
             }
           },
           {
@@ -65,7 +65,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "phép biện chứng duy vật - 2 nguyên lí.md",
+                    "file": "ý thức - nguồn gốc.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -93,7 +93,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of phép biện chứng duy vật - 2 nguyên lí"
+                  "title": "Graph of ý thức - nguồn gốc"
                 }
               }
             ]
@@ -109,7 +109,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "phép biện chứng duy vật - 2 nguyên lí.md",
+                    "file": "ý thức - nguồn gốc.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for phép biện chứng duy vật - 2 nguyên lí"
+                  "title": "Backlinks for ý thức - nguồn gốc"
                 }
               }
             ]
@@ -273,12 +273,14 @@
   },
   "active": "a100edd3e8f41670",
   "lastOpenFiles": [
+    "lực lượng sản xuất - quyết định.md",
+    "7 - học thuyết hình thái KT XH.md",
+    "2 - vật chất và ý thức.md",
+    "phép biện chứng duy vật - 2 nguyên lí.md",
     "phép biện chứng duy vật.md",
     "biện chứng.md",
-    "phép biện chứng duy vật - 2 nguyên lí.md",
     "phép biện chứng.md",
     "chủ nghĩa duy vật biện chứng.md",
-    "2 - vật chất và ý thức.md",
     "vật chất và ý thức.md",
     "ý thức - cấp độ.md",
     "ý thức - lớp kết cấu.md",
@@ -296,8 +298,6 @@
     "vật chất - ý nghĩa.md",
     "vật chất - ĐN.md",
     "vật chất - phân tích.md",
-    "triết học - VĐCB.md",
-    "phát minh vật lí học - tác động.md",
-    "các phát minh vật lí học.md"
+    "triết học - VĐCB.md"
   ]
 }
