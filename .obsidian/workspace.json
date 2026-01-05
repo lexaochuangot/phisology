@@ -6,7 +6,7 @@
       {
         "id": "4548eb59ab5f181a",
         "type": "tabs",
-        "dimension": 62.24832214765101,
+        "dimension": 81.21827411167513,
         "children": [
           {
             "id": "6f52629d15d5c11b",
@@ -22,14 +22,17 @@
             "id": "a100edd3e8f41670",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "ý thức - nguồn gốc.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": -31.740765286067496,
+                  "y": -43.66069124134173,
+                  "zoom": 0.7633404651905097
+                }
               },
-              "icon": "lucide-file",
-              "title": "ý thức - nguồn gốc"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           },
           {
@@ -52,7 +55,7 @@
       {
         "id": "4914f7c784ff98e9",
         "type": "split",
-        "dimension": 37.75167785234899,
+        "dimension": 18.781725888324875,
         "children": [
           {
             "id": "7dd40e4f28226b33",
@@ -65,7 +68,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "ý thức - nguồn gốc.md",
+                    "file": "Untitled.canvas",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -93,7 +96,7 @@
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of ý thức - nguồn gốc"
+                  "title": "Graph of Untitled"
                 }
               }
             ]
@@ -109,7 +112,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "ý thức - nguồn gốc.md",
+                    "file": "Untitled.canvas",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -119,7 +122,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for ý thức - nguồn gốc"
+                  "title": "Backlinks for Untitled"
                 }
               }
             ]
@@ -198,6 +201,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +211,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -273,6 +277,8 @@
   },
   "active": "a100edd3e8f41670",
   "lastOpenFiles": [
+    "ý thức - nguồn gốc.md",
+    "Untitled.canvas",
     "lực lượng sản xuất - quyết định.md",
     "7 - học thuyết hình thái KT XH.md",
     "2 - vật chất và ý thức.md",
@@ -285,7 +291,6 @@
     "ý thức - cấp độ.md",
     "ý thức - lớp kết cấu.md",
     "ý thức - bản chất.md",
-    "ý thức - nguồn gốc.md",
     "lao động.md",
     "ý thức.md",
     "thế giới thống nhất ở tính vật chất.md",
@@ -297,7 +302,6 @@
     "Untitled.md",
     "vật chất - ý nghĩa.md",
     "vật chất - ĐN.md",
-    "vật chất - phân tích.md",
-    "triết học - VĐCB.md"
+    "vật chất - phân tích.md"
   ]
 }
