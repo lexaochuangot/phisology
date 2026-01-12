@@ -1,7 +1,7 @@
 ## Quan điểm của chủ nghĩa duy tâm và chủ nghĩa duy vật siêu hình
 - Chủ nghĩa duy tâm: Coi ý thức là tồn tại duy nhất, là tính thứ nhất từ đó sinh ra tất cả; còn thế giới vật chất chỉ là bản sao, biểu hiện khác của ý thức tinh thần, là tính thứ hai, do ý thức tinh thần sinh ra. 
 - Chủ nghĩa duy vật siêu hình: tuyệt đối hóa yếu tố vật chất, chỉ nhấn mạnh một chiều vai trò của vật chất sinh ra ý thức, quyết định ý thức, phủ nhận tính độc lập tương đối của ý thức, không thấy được tính năng động, sáng tạo, vai trò to lớn của ý thức.
-## Quan điểm của chủ nghĩa duy vật biện chứng
+## Quan điểm của [[chủ nghĩa duy vật biện chứng|chủ nghĩa duy vật biện chứng]]
 Theo quan điểm triết học Mác - Lênin, *vật chất và ý thức có mối quan hệ biện chứng, trong đó vật chất quyết định ý thức, còn ý thức tác động trở lại vật chất.*
 ### Vật chất quyết định ý thức
 Vai trò quyết định của vật chất đối với ý thức được thể hiện trên những khía cạnh sau: 

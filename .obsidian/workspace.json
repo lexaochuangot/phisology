@@ -19,24 +19,35 @@
             }
           },
           {
-            "id": "a100edd3e8f41670",
+            "id": "469335fcc7d8d9fb",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": -31.740765286067496,
-                  "y": -43.66069124134173,
-                  "zoom": 0.7633404651905097
-                }
+                "file": "10 - ý thức xã hội.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "10 - ý thức xã hội"
             }
           },
           {
-            "id": "27894bb59a1da108",
+            "id": "a3e50936ea4388c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "9 - nhà nước và CMXH.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "9 - nhà nước và CMXH"
+            }
+          },
+          {
+            "id": "31a8d5e40be36652",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -50,7 +61,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "4914f7c784ff98e9",
@@ -68,7 +79,7 @@
                 "state": {
                   "type": "localgraph",
                   "state": {
-                    "file": "Untitled.canvas",
+                    "file": "vật chất và ý thức.md",
                     "options": {
                       "collapse-filter": true,
                       "search": "",
@@ -91,12 +102,12 @@
                       "repelStrength": 10,
                       "linkStrength": 1,
                       "linkDistance": 250,
-                      "scale": 1,
+                      "scale": 0.8983971604945703,
                       "close": true
                     }
                   },
                   "icon": "lucide-git-fork",
-                  "title": "Graph of Untitled"
+                  "title": "Graph of vật chất và ý thức"
                 }
               }
             ]
@@ -112,7 +123,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Untitled.canvas",
+                    "file": "vật chất và ý thức.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -122,7 +133,7 @@
                     "unlinkedCollapsed": true
                   },
                   "icon": "links-coming-in",
-                  "title": "Backlinks for Untitled"
+                  "title": "Backlinks for vật chất và ý thức"
                 }
               }
             ]
@@ -160,7 +171,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "quan điểm của về vật chất",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,8 +266,19 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "37bba82865314460",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -275,33 +297,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a100edd3e8f41670",
+  "active": "31a8d5e40be36652",
   "lastOpenFiles": [
-    "ý thức - nguồn gốc.md",
-    "Untitled.canvas",
-    "lực lượng sản xuất - quyết định.md",
-    "7 - học thuyết hình thái KT XH.md",
-    "2 - vật chất và ý thức.md",
-    "phép biện chứng duy vật - 2 nguyên lí.md",
-    "phép biện chứng duy vật.md",
-    "biện chứng.md",
-    "phép biện chứng.md",
     "chủ nghĩa duy vật biện chứng.md",
-    "vật chất và ý thức.md",
-    "ý thức - cấp độ.md",
-    "ý thức - lớp kết cấu.md",
-    "ý thức - bản chất.md",
-    "lao động.md",
-    "ý thức.md",
-    "thế giới thống nhất ở tính vật chất.md",
-    "tồn tại.md",
-    "vật chất - phương thức tồn tại.md",
-    "vận động.md",
-    "đứng im.md",
-    "vận động và đứng im.md",
-    "Untitled.md",
     "vật chất - ý nghĩa.md",
+    "vật chất - phân tích.md",
     "vật chất - ĐN.md",
-    "vật chất - phân tích.md"
+    "nhà nước - nguồn gốc.md",
+    "9 - nhà nước và CMXH.md",
+    "thuyết khả tri.md",
+    "tồn tại.md",
+    "triết học - VĐCB.md",
+    "vật chất - phương thức tồn tại.md",
+    "lực lượng sản xuất.md",
+    "liên hệ.md",
+    "hoài nghi luận.md",
+    "chủ nghĩa duy tâm.md",
+    "biện chứng.md",
+    "chủ nghĩa duy vật trước Mác.md",
+    "2 - vật chất và ý thức.md",
+    "Untitled.canvas",
+    "10 - ý thức xã hội.md",
+    "7 - học thuyết hình thái KT XH.md",
+    "mối liên hệ phổ biến - TC.md",
+    "chủ nghĩa duy vật trước Mác - đánh giá.md",
+    "vật chất và ý thức.md",
+    "ý thức - nguồn gốc.md",
+    "lực lượng sản xuất - quyết định.md",
+    "phép biện chứng duy vật - 2 nguyên lí.md",
+    "phép biện chứng duy vật.md"
   ]
 }
